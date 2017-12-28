@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name Clear UESTC Eams Timeout
-// @namespace Violentmonkey Scripts
+// @name:zh 清除电子科大教务系统的 setTimeouts
+// @description 清除电子科大教务系统的 setTimeouts，可以有效提升教务系统流畅性，减轻学校服务器压力，热爱成电从我做起 
 // @match *://eams.uestc.edu.cn/*
+// @downloadURL https://raw.githubusercontent.com/whtsky/uestc-eams-cleartimeout-userscript/master/eams.js
 // @grant none
 // ==/UserScript==
 
